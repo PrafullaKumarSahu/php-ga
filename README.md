@@ -20,7 +20,7 @@ About
 
 php-ga basically is ga.js in PHP: An implementation of a generic server-side Google
 Analytics client in PHP that implements nearly every parameter and tracking feature of the
-original GA Javascript client. That means you can send data directly from your servers to
+original GA Javascript client. That means you can send data directly from your servers 
 to Google Analytics – bypassing the user's browser.
 
 I love Google Analytics and want to contribute to its community with this PHP client
